@@ -8,6 +8,6 @@ Link: https://github.com/siem125/Food-Tracker <br>
 Dit project is ontstaan om bij te houden wat ik gegeten heb en hierin als overzicht mogelijke suggesties voor wat ik nog zou mogen/kunnen eten om af te vallen.
 
 
-## Game
+## BattleGame
 Link: https://github.com/siem125/Old-Battle-Game <br>
-Dit project is geinspireerd door de pokemon battle mechanics, ik wou hier zelf een omgeving voor maken waarbij er een crud systeem voor verhalen te maken waarbij characters verkregen zouden kunnen worden door een gotcha mechanic(om het verkrijgen van characters toch iets uitdagender te maken). voor dit project ben ik nog bezig met het uitwerken wat voor extra features hierbij zouden kunnen komen.
+Dit project is geinspireerd door de pokemon battle mechanics, ik wou hier zelf een omgeving voor maken waarbij er een crud systeem voor verhalen te maken waarbij characters verkregen zouden kunnen worden door een gotcha mechanic(om het verkrijgen van characters toch iets uitdagender te maken). voor dit project ben ik nog bezig met het uitwerken wat voor extra features hierbij zouden kunnen komen. Deze repo is de eerste variant van deze game(in c# en was mid development), maar ik ben bezig met het anders en beter aan te pakken dan deze repo want ik heb over veel meer concepten geleerd sinds dat ik dit project was begonnen.
